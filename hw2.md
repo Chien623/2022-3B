@@ -24,8 +24,10 @@
 
 ---
 **PERT**
+
 ![![來源]([https://hackmd.io/D5ZuKSUIQIOSJreZ-K5Mew](https://hackmd.io/@elvMnT8FRe-QPcC1RlqxgA/Chein623
 ))](https://user-images.githubusercontent.com/79584249/195106994-76619a09-ae12-4c1a-86bd-561263ee5dc0.jpg)
+
 ---
 **甘特圖**
 ```mermaid
@@ -65,4 +67,7 @@ gantt
     section 使用者測試
     25      :a11, after a9  , 25d
 ```
-
+---
+**(3)關鍵路徑**
+![![來源]([https://hackmd.io/D5ZuKSUIQIOSJreZ-K5Mew](https://hackmd.io/@elvMnT8FRe-QPcC1RlqxgA/Chein623
+))](https://user-images.githubusercontent.com/79584249/195108356-618f1d73-0b5a-4e6b-b376-9dd517102e16.jpg)
