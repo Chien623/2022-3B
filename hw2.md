@@ -35,7 +35,7 @@ gantt
     title 甘特圖
     
     section 研擬計畫
-    1       :a1, 2014-01-01, 1d
+    1       :a1, 2022-10-01, 1d
    
     section 任務分配
     4       :a2, after a1  , 4d
