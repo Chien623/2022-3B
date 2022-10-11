@@ -16,7 +16,6 @@
 
 ---
 # PERT
-https://hackmd.io/@elvMnT8FRe-QPcC1RlqxgA/Chein623
 ```graphviz
 digraph{
 node[shape=record];
